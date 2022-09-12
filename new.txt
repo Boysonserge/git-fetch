@@ -1,2 +1,8 @@
 Edits by new
+<<<<<<< HEAD
 Hello my pipo
+=======
+
+
+New edts
+>>>>>>> new
